@@ -22,12 +22,3 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 ---
 
-## :man: Project Created & Maintained By
-
-<img src = "https://avatars.githubusercontent.com/u/61647822?v=4"  height="120" alt=""> <br>Ankur Kumar
-<p>
-<a href = "https://github.com/ankursharma6084"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/ankur-kumar-5a246a1b1/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
